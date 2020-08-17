@@ -1,0 +1,4 @@
+INFO	2020-08-04 18:03:46,916	[logger.py:46]	你好
+INFO	2020-08-04 18:07:16,362	[logger.py:46]	你好
+WARNING	2020-08-10 20:47:38,653	[connectionpool.py:752]	Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE06CB08C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/b4b8db5cfdbbda926bd2f3ed49bcc70b
+WARNING	2020-08-10 20:47:40,660	[connectionpool.py:752]	Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE06C4F3C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/b4b8db5cfdbbda926bd2f3ed49bcc70b

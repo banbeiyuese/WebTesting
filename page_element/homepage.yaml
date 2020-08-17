@@ -1,0 +1,8 @@
+后台按钮: "class==commonIconLeft32_setting_gray"
+企业管理: "link_text==企业管理"
+社区后台: "link_text==后台管理"
+创建及管理社区菜单: "css==common_leftBack140124_menu_item_text"
+组织类型管理: "css==common_leftBack140124_menuH2_item_text"
+新增组织类型: "link_text==新增"
+切换单位按钮: "css==common_icon16_arrowDownWhite"
+春艳之家222: "css==clearfixOverflow"
